@@ -3,6 +3,7 @@ A Brawl Stars V12 private server written on Python
 
 ## Requirements
 * [Python 3.9.13](https://www.python.org/downloads/release/python-3913/)
+* [Client](https://github.com/Greedycell/AstralBrawl/releases/download/Clients/astralbrawl_12.198.apk)
 
 ## Setup
 1. Download the repository by zip or type this into the Terminal: `git clone https://github.com/Greedycell/AstralBrawl.git`
@@ -15,5 +16,6 @@ The server is new and lacks alot of packets & logic.
 
 
 ![screen](/Screens/game.png)
+
 
 
